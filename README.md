@@ -1,6 +1,6 @@
 # Analisando-dados-de-um-Dashboard-de-Vendas-no-Power-BI
 
-ste repositório contém o projeto prático desenvolvido como parte do desafio de **Power BI Analyst** da [DIO (Digital Innovation One)](https://www.dio.me/). O objetivo do desafio foi aplicar conceitos de importação de dados, modelagem básica e criação de visuais interativos utilizando o Power BI Desktop.
+Este repositório contém o projeto prático desenvolvido como parte do desafio de **Power BI Analyst** da [DIO (Digital Innovation One)](https://www.dio.me/). O objetivo do desafio foi aplicar conceitos de importação de dados, modelagem básica e criação de visuais interativos utilizando o Power BI Desktop.
 
 ## 📝 Sobre o Projeto
 
